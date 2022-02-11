@@ -6,7 +6,7 @@ To multipy two matrices using numpy module.
 ## ALGORITHM:
 
 ### Step 1:
-import numpy as np
+Import numpy as np
 ### Step 2:
 Declare a variable array1 as an empty list. 
 ### Step 3:
